@@ -3,8 +3,8 @@ import React from "react";
 
 
 
-const URLWEATHER='http://localhost:3001/getweather';
-const URLMOVIE='http://localhost:3001/movie';
+const URLWEATHER='https://eeeeeeeend.herokuapp.com/getweather';
+const URLMOVIE='https://eeeeeeeend.herokuapp.com/movie';
 const URLLOCATION='https://eu1.locationiq.com/v1/search';
 const LOCATION_API='pk.e6f569abb6089f922ac76a14ac4bc5e4';
 
